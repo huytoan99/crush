@@ -1,5 +1,5 @@
 const CONFIG = {
-    introTitle: 'Oanh à!',
+    introTitle: 'Coanh à!',
     introDesc: `Trái đất vốn lạ thường, mà sao em cứ đi nhầm đường.
     Lạc vào tim anh lẻ loi, đằng sau chữ yêu đây là thương`,
     btnIntro: 'Ấn tiếp vô đây',
@@ -12,6 +12,6 @@ const CONFIG = {
     reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
     mess: 'Tôi biết mà 🥰. Yêu cậu nhiều nhiều 😘😘',
     messDesc: 'Tối nay 21h anh call video nha.',
-    btnAccept: 'Okiiiii lun <3',
+    btnAccept: 'Okii lun <3',
     messLink: 'http://fb.com/HuyToanProx' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
